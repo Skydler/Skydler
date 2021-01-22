@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/Skydler)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skydler&show_icons=true)  
+
 
 <!--
 **Skydler/Skydler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
