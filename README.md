@@ -1,8 +1,8 @@
 ### Hi there 👋
-![Profile views](https://gpvc.arturio.dev/Skydler)  
 
-<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skydler&show_icons=true)  
+<!--
+![Profile views](https://gpvc.arturio.dev/Skydler)  
 
 
 
