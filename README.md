@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friend 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skydler&show_icons=true)  
 <!--
