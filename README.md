@@ -1,4 +1,4 @@
-<h2 align=center> Hello friend 🥸 </h2>
+<h2 align=center> Hello friend 💽 </h2>
 
 <div align=center>
 <a href="https://github.com/Skydler" target="_blank">
