@@ -2,9 +2,6 @@
 
 <div align=center>
 <a href="https://github.com/Skydler" target="_blank">
-  <img alt="Skydler" src="https://badges.pufler.dev/visits/Skydler/Skydler?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
-</a>
-<a href="https://github.com/Skydler" target="_blank">
   <img alt="uptime" src="https://img.shields.io/badge/uptime-100%25-brightgreen"/>
 </a>
 <a href="https://github.com/Skydler" target="_blank">
